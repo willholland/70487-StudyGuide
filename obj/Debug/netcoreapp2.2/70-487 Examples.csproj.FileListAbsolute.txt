@@ -1,0 +1,31 @@
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.deps.json
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.runtimeconfig.json
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.runtimeconfig.dev.json
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.dll
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.pdb
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.Views.dll
+F:\tfs\70-487 Examples\bin\Debug\netcoreapp2.2\70-487 Examples.Views.pdb
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.csprojAssemblyReference.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.csproj.CoreCompileInputs.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.RazorAssemblyInfo.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.RazorAssemblyInfo.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.AssemblyInfoInputs.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.AssemblyInfo.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.TagHelpers.input.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.TagHelpers.output.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.RazorCoreGenerate.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.RazorTargetAssemblyInfo.cache
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.RazorTargetAssemblyInfo.cs
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.Views.pdb
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.dll
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.pdb
+F:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\70-487 Examples.csproj.CopyComplete
+f:\tfs\70-487 Examples\obj\Debug\netcoreapp2.2\Razor\Views\MemoryCaching\Index.g.cshtml.cs

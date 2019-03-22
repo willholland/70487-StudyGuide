@@ -1,0 +1,51 @@
+@{
+    ViewData["Title"] = "Home Page";
+    CachingModel a = (CachingModel)ViewData["ABS"];
+    CachingModel b = (CachingModel)ViewData["SLID"];
+}
+<style>
+    .half { width: 50%; float:left; }
+</style>
+<div class="text-center">
+    <div>
+        Current Time @DateTime.Now.ToString()
+    </div>
+    <div class="half">
+        <h1 class="display-4">Absolute Expiration</h1>
+        <p style="font-weight: bold;">Cached Value: 
+                @if(a == null){
+                    <text>NULL</text>
+                }
+                else{
+                    <text>@a.Value (Expires: @a.ExpirationDate)</text>
+                }            
+        </p>
+        <p>
+            <form name="OCForm" action="./MemoryCaching/CacheAbsoluteExpiration" method="post">
+                @Html.Label("Set New Cache Value")
+                @Html.TextBox("Value")
+                <input type="submit" value="Submit" />
+            </form>
+        </p>
+        <p>Setting/Updating this value will cache the value for exactly 30 seconds. After that, the cached value will be removed.</p>
+    </div>
+    <div class="half">
+        <h1 class="display-4">Sliding Expiration</h1>
+        <p style="font-weight: bold;">Cached Value: 
+                @if(b == null){
+                    <text>NULL</text>
+                }
+                else{
+                    <text>@b.Value (Expires: @b.ExpirationDate)</text>
+                }            
+        </p>
+        <p>
+            <form name="OCForm" action="./MemoryCaching/CacheSlidingExpiration" method="post">
+                @Html.Label("Set New Cache Value")
+                @Html.TextBox("Value")
+                <input type="submit" value="Submit" />
+            </form>
+        </p>
+        <p>Setting/Updating this value will cache the value for exactly 30 seconds. However, if the page is refreshed before the cached value expires, the 30 seconds starts over.</p>
+    </div>    
+</div>
